@@ -1,3 +1,4 @@
+Hey I'm Josh
 
 Bachelor of Computer science student at the University of Newcastle, majoring in Software Development.
 
